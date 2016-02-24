@@ -1,0 +1,21 @@
+.login-box-body{
+   /*background: #ff0084;*/ 
+}
+.login-page{
+   /*background-image: url("../img/novelty_shop_login_bg.jpg");*/
+}
+.login-logo a b{
+    color:#367fa9;
+}
+.mandetory_star{
+    color:red;
+}
+.form-level{
+    text-align: right;
+}
+.dropdown-menu {
+    min-width: 20px!important;
+}
+.box-header{
+    border-bottom: 1px solid#ddd;
+}
